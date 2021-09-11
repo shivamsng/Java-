@@ -48,5 +48,10 @@ return StudentService.updateStudent(Student); }
 public List<Student> getDummyStudentList() {
 List<Student> listOfStudent = StudentService.getAllStudentlist();
 return listOfStudent;
+  @DeleteMapping("/delete/{id}")
+    public List<Student> deleteStudentById(@PathVariable Integer id) {
+    new StudentService().deleteStudent(id);
+    return new StudentService().getAllStudentlist();
+    }
 }
 }
