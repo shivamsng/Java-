@@ -1,0 +1,52 @@
+Multi threading MCQ Assignment
+
+1-
+2- D,E
+3- E
+4- E
+5- A,C,E
+6- B
+7- D,F
+8- E
+9- C
+10- D
+11- B
+12- B
+13- A,D
+14- 
+15-D
+16-
+17-E
+18-A
+19-E
+20-E,G
+21-C
+22-C,E,F
+23- synchronized 
+    notifyAll( ) 
+    synchronized 
+    wait( ) 
+    false 
+24- t.join( ); 
+    t.run( ); 
+    t.doIt( ); 
+25-A,C
+26-G
+27-A,B,E
+28-
+29-E,F
+30-C
+31-B
+32-D
+33-D
+34-B,F
+35-A,B,F
+36-D
+37-A
+38-A
+39-E
+40-G
+41-B
+42-C
+43-E
+44=A,C,D,E,F
